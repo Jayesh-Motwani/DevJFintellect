@@ -208,3 +208,9 @@ combined_filtered_quarterly_financials.csv
 *.json
 *.h5
 *.xml
+modules.xml
+misc.xml
+profiles_settings.xml
+Project_Default.xml
+vcs.xml
+DevJFintellect.iml
